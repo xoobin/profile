@@ -1,0 +1,29 @@
+body{
+  background-color:black;
+  color:#ffffff;
+  text-align:center;
+}
+
+
+h2{
+  font-family: 'Playfair Display', serif;
+  color:aliceblue;
+  font-size:100px;
+  text-align:center;
+}
+
+.introduce{
+  text-align:center;
+  color:aliceblue;
+  font-size:13px;
+
+}
+.title>h1{
+  font-family: 'Playfair Display', serif;
+  font-size:100px;
+
+}
+
+p{
+  font-size:13px;
+}
